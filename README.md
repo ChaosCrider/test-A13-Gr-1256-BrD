@@ -1,5 +1,5 @@
-#Initiation a git hub
-##Créer un repository
+# Initiation a git hub
+## Créer un repository
 - nom de projet
 - Liscence
 - private / public
